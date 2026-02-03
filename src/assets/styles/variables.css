@@ -1,0 +1,14 @@
+/* 全局颜色与主题变量 */
+:root {
+  --primary-color: #dc143c;
+  --primary-color-hover: #ff4d4f;
+  --primary-color-pressed: #b51228;
+  --accent-gold: #ffd700;
+  --text-color: #2c3e50;
+  --muted-text: #5f6a7d;
+  --surface-color: #ffffff;
+  --surface-contrast: #fff0f0;
+  --border-color: #ffe4e1;
+  --shadow-soft: 0 12px 30px rgba(220, 20, 60, 0.08);
+  --shadow-strong: 0 16px 40px rgba(220, 20, 60, 0.12);
+}
